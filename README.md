@@ -3,3 +3,4 @@
 
 ## 01_date = Date() 함수  
 ## 02_array = 배열  
+## 03_split = split  

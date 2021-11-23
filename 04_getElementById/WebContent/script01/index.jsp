@@ -15,6 +15,8 @@
 			
 			obj = document.getElementById("divY");
 			obj.innerHTML = "<strong><i>Hi!</i></strong>"
+			obj.style.color = "red";
+			obj.style.backgroundColor = "#f4f4f4";
 		</script>
 	</body>
 </html>

@@ -8,3 +8,4 @@
 ## 05_onload = onload  
 ## 06_createElement = createElement  
 ## 07_focus = focus  
+## 07_onclick = onclick  

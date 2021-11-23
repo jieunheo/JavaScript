@@ -6,3 +6,4 @@
 ## 03_split = split  
 ## 04_getElementById = getElementById  
 ## 05_onload = onload  
+## 06_createElement = createElement  

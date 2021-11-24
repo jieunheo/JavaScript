@@ -32,9 +32,10 @@
 				});
 			}
 			
-			function over()
+			function over(e)
 			{
 				this.style.backgroundColor='yellow';
+				alert(e.type);
 			}
 			
 			function out()

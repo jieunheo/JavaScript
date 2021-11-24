@@ -18,6 +18,7 @@
 		</form>
 		<hr>
 		<div id="div" style="color:green"></div> 
+		<p>임의의 리스너에서 event.stopPropagation() 을 사용하면 즉시 이벤트는 중지되고 소멸한다.</p>
 		
 		<script>
 			var div = document.getElementById("div");

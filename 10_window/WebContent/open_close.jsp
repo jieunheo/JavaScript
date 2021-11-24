@@ -4,7 +4,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>window open</title>
+		<title>window open, close</title>
 		<style>
 		</style>
 	</head>

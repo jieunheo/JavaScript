@@ -8,4 +8,5 @@
 ## 05_onload = onload  
 ## 06_createElement = createElement  
 ## 07_focus = focus  
-## 07_onclick = onclick  
+## 08_onclick = onclick  
+## 09_ex_cal = switch를 이용한 계산기 만들기  

@@ -10,3 +10,4 @@
 ## 07_focus = focus  
 ## 08_onclick = onclick  
 ## 09_ex_cal = switch를 이용한 계산기 만들기  
+## 10_window = window 열기  
